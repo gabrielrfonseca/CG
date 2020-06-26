@@ -28,7 +28,7 @@ imagem de pixels em uma tela.
 
 <p align="center">
 	<br>
-	<img src="./01/images/pixels.png"/ width=655px height=632px>
+	<img src="./01/images/pixels.png"/ width=300px height=300px>
 	<h5 align="center"></h5>
 	<br>
 </p>
@@ -58,10 +58,10 @@ para cada octante de uma circunferência. Além do mais, este algorítimo
 trabalha com base em variações de x e y.
 
 <p align = "center">
-<br>
-<img src = "./01/images/.png" / width=619px altura=593px>
-<h5 align = "center"></ h5>
-<br>
+	<br>
+	<img src = "./01/images/octantes.png" / width=300px altura=300px>
+	<h5 align = "center"></ h5>
+	<br>
 </ p>
 
 
@@ -73,7 +73,7 @@ descrito anteriormente.
 
 <p align="center">
 	<br>
-	<img src="./01/images/triangulo.png"/ width=689px height=135px>
+	<img src="./01/images/triangulo.png"/ width=300px height=300px>
 	<h5 align="center"></h5>
 	<br>
 </p>
@@ -94,7 +94,7 @@ também rasterizando polígonos.
 
 <p align="center">
 	<br>
-	<img src="./01/images/pixelss.png"/ width=86px height=86px>
+	<img src="./01/images/pixelss.png"/ width=400px height=400px>
 	<h5 align="center">Rasterização de Pixels</h5>
 	<br>
 </p>
