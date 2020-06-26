@@ -28,7 +28,7 @@ imagem de pixels em uma tela.
 
 <p align="center">
 	<br>
-	<img src="./img/pixels.png"/ width=655px height=632px>
+	<img src="./01/images/pixels.png"/ width=655px height=632px>
 	<h5 align="center"></h5>
 	<br>
 </p>
@@ -39,7 +39,7 @@ a sua posição matricial em uma tela.
 
 <p align="center">
 	<br>
-	<img src="./img/putpixel.png"/ width=691px height=258px>
+	<img src="./01/images/putpixel.png"/ width=691px height=258px>
 	<h5 align="center"></h5>
 	<br>
 </p>
@@ -59,7 +59,7 @@ trabalha com base em variações de x e y.
 
 <p align = "center">
 <br>
-<img src = "./img/octantes.png" / width=619px altura=593px>
+<img src = "./01/images/.png" / width=619px altura=593px>
 <h5 align = "center"></ h5>
 <br>
 </ p>
@@ -73,7 +73,7 @@ descrito anteriormente.
 
 <p align="center">
 	<br>
-	<img src="./img/triangulo.png"/ width=689px height=135px>
+	<img src="./01/images/triangulo.png"/ width=689px height=135px>
 	<h5 align="center"></h5>
 	<br>
 </p>
@@ -94,21 +94,21 @@ também rasterizando polígonos.
 
 <p align="center">
 	<br>
-	<img src="./img/pixelss.png"/ width=86px height=86px>
+	<img src="./01/images/pixelss.png"/ width=86px height=86px>
 	<h5 align="center">Rasterização de Pixels</h5>
 	<br>
 </p>
 
 <p align="center">
 	<br>
-	<img src="./img/octantesresult.png"/ width=400px height=403px>
+	<img src="./01/images/octantesresult.png"/ width=400px height=403px>
 	<h5 align="center">Rasterização de linhas nos octantes</h5>
 	<br>
 </p>
 
 <p align="center">
 	<br>
-	<img src="./img/resultado1.png"/ width=471px height=478px>
+	<img src="./01/images/resultado1.png"/ width=471px height=478px>
 	<h5 align="center">Rasterização de triângulos e linhas</h5>
 	<br>
 </p>
