@@ -73,7 +73,7 @@ descrito anteriormente.
 
 <p align="center">
 	<br>
-	<img src="./01/images/triangulo.png"/ width=300px height=300px>
+	<img src="./01/images/triangulo.png"/ width=600px height=200px>
 	<h5 align="center"></h5>
 	<br>
 </p>
@@ -101,6 +101,13 @@ também rasterizando polígonos.
 
 <p align="center">
 	<br>
+	<img src="./01/images/pixelss2.png"/ width=400px height=400px>
+	<h5 align="center">Rasterização de Pixels</h5>
+	<br>
+</p>
+
+<p align="center">
+	<br>
 	<img src="./01/images/octantesresult.png"/ width=400px height=403px>
 	<h5 align="center">Rasterização de linhas nos octantes</h5>
 	<br>
@@ -108,7 +115,7 @@ também rasterizando polígonos.
 
 <p align="center">
 	<br>
-	<img src="./01/images/resultado1.png"/ width=471px height=478px>
+	<img src="./01/images/resultado2.png"/ width=471px height=478px>
 	<h5 align="center">Rasterização de triângulos e linhas</h5>
 	<br>
 </p>
