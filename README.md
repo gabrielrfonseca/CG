@@ -128,3 +128,13 @@ também rasterizando polígonos.
 https://en.wikipedia.org/wiki/Bresenham%27s_line_algorithm
 
 
+
+
+
+# 02
+
+## compilando e executando opengl moderno
+
+Abaixo um gif para demonstrar a exeução, na pasta /02 tambem contem o arquivo em video.
+
+![hello opengl](02/atv_02_opengl_install.gif)
