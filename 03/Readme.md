@@ -20,3 +20,16 @@ Pode-se aplicar a um objeto transformações como  Escala, Translação  Projeç
 
 #### Escala
 A Transformação de Escala altera as proporções do objeto, podendo ser Isotrópica, onde não há alteração do aspecto do objeto (a escala para todas as coordenadas do objeto é igual), ou Anisotrópica, onde a escala para pelo menos uma das coordenadas é diferente.
+
+A primeira alteração feita foi na matriz Model, e teve como objetivo mudar a escala dos triângulos que aparecem na tela. Aplicando as alterações especificadas pelo professor o resultado da transformação foi: 
+
+#######img
+
+Os valores aplicados a matriz model para obter o respectivo resultado foram:
+
+###img
+
+#### Translação
+
+A matriz de translação vai simplesmente transladar os pontos que forem transformados pela matriz:
+
