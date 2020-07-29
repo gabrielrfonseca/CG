@@ -23,13 +23,38 @@ A Transformação de Escala altera as proporções do objeto, podendo ser Isotr�
 
 A primeira alteração feita foi na matriz Model, e teve como objetivo mudar a escala dos triângulos que aparecem na tela. Aplicando as alterações especificadas pelo professor o resultado da transformação foi: 
 
-#######img
+![](Imagens/translation.png)
+
 
 Os valores aplicados a matriz model para obter o respectivo resultado foram:
 
-###img
+![](Imagens/translation.png)
 
 #### Translação
 
 A matriz de translação vai simplesmente transladar os pontos que forem transformados pela matriz:
+
+![](Imagens/translation.png)
+
+#### Projeção Perspectiva
+![](Imagens/translation.png)
+
+
+#### Posição da Câmera
+![](Imagens/translation.png)
+![](Imagens/translation.png)
+![](Imagens/translation.png)
+![](Imagens/translation.png)
+#### Transformações Livres
+![](Imagens/translation.png)
+![](Imagens/translation.png)
+![](Imagens/translation.png)
+![](Imagens/translation.png)
+
+
+#### Desafios encontrados 
+
+
+#### Referências
+
 
